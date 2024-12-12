@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "Azərbaycan",
+    "flag": "https://flagcdn.com/az.svg",
+    "code": "AZ",
+    "dial_code": "+994"
+  },
+  {
+    "name": "United States",
+    "flag": "https://flagcdn.com/us.svg",
+    "code": "US",
+    "dial_code": "+1"
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "https://flagcdn.com/gb.svg",
+    "code": "GB",
+    "dial_code": "+44"
+  },
+  {
+    "name": "France",
+    "flag": "https://flagcdn.com/fr.svg",
+    "code": "FR",
+    "dial_code": "+33"
+  },
+  {
+    "name": "Germany",
+    "flag": "https://flagcdn.com/de.svg",
+    "code": "DE",
+    "dial_code": "+49"
+  }
+]

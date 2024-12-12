@@ -1,0 +1,199 @@
+/* Small devices (landscape phones, 576px and up) */
+/* Small devices (landscape phones, 576px and up) */
+/* Medium devices (tablets, 768px and up) */
+/* Large devices (desktops, 992px and up) */
+/* X-Large devices (large desktops, 1200px and up) */
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (max-width: 350px) {
+    .mobile_text {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .header_slogan {
+      gap: 24px;
+    }
+    .vector_96 {
+      width: 138px;
+      height: 70.725px;
+      position: absolute;
+      top: -19px;
+      stroke-width: 2.994px;
+      stroke: var(--Primary-300, #5585D1);
+    }
+    .vector_97 {
+      width: 90px;
+      transform: rotate(1.207deg);
+      position: absolute;
+      top: 20px;
+      left: 0;
+    }
+    .vector_98 {
+      width: 70px;
+      transform: rotate(1.207deg);
+      position: absolute;
+      top: 45px;
+      left: 0;
+    }
+    .service_box {
+      min-width: 290px;
+    }
+    .features {
+      overflow: hidden;
+    }
+    .frame_872_872_651 {
+      display: none;
+    }
+    .footer_header {
+      flex-direction: column;
+    }
+    .footer_logo {
+      display: none;
+    }
+    .footer_into_section_2 {
+      display: none;
+    }
+    .footer_social_bars {
+      width: 100%;
+      justify-content: space-between;
+    }
+    .footer_body {
+      justify-content: center;
+    }
+    .features_box {
+      flex-direction: column;
+      width: 100%;
+      padding-left: 5px;
+    }
+    .features_header_box_content {
+      width: 100%!important;
+    }
+  
+  .features_header_box_content p:nth-child(2)
+  {
+      width: 100%;
+  }
+  .footer_menu {
+      width: 100%;
+  }
+  
+  .features_body_box:first-child
+  {
+      display: none;
+  }
+    .footer_menu ul {
+      flex-direction: column;
+      width: 100%;
+    }
+    .footer_menu ul span {
+      display: block !important;
+    }
+    .footer_menu ul li a {
+      display: inline;
+    }
+    .footer_menu > ul li {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      padding: 5px;
+    }
+    .footer_box {
+      padding: 0;
+    }
+    .slogan_box {
+      width: 90%;
+      margin: 0 auto;
+    }
+    .frame_1363 {
+      align-items: stretch;
+    }
+    .footer_into {
+      padding: 5px;
+    }
+    ul {
+      padding-left: 0;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .slogan_box {
+      height: auto;
+    }
+    .slogan_content p:nth-child(1) {
+      align-self: stretch;
+      color: var(--White, #FFF);
+      text-align: center;
+      font-family: Inter;
+      font-size: 34px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 48px;
+    }
+    .slogan_content p:nth-child(2) {
+      align-self: stretch;
+      color: var(--Primary-50, #E4ECF8);
+      text-align: center;
+      font-family: Inter;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px;
+    }
+    .question_box {
+      flex-direction: column;
+      gap: 2px;
+    }
+    .vector_96 {
+      width: 138px;
+      height: 70.725px;
+      position: absolute;
+      top: -19px;
+      stroke-width: 2.994px;
+      stroke: var(--Primary-300, #5585D1);
+    }
+    .vector_97 {
+      position: absolute;
+      top: 20px;
+      left: 0;
+    }
+    .vector_98 {
+      transform: rotate(1.207deg);
+      position: absolute;
+      top: 45px;
+      left: 0;
+    }
+  }
+  @media only screen and (max-width: 1120px) {
+    ul.frame_872_871 {
+      display: none;
+    }
+    .frame_872_872_652_tags {
+      display: none;
+    }
+    .frame_872 {
+      justify-content: flex-end;
+    }
+    .frame_872_bar {
+      display: flex;
+    }
+      .rectangle_49 {
+          width: 72px;
+          height: 68px;
+          background: url("/icons/logo_ady.png") -6.833px -8.083px/125% 129.197% no-repeat;
+      }
+    .mobile_text {
+      display: flex;
+    }
+    .frame_1766 span {
+      display: none;
+    }
+  }
+  @media only screen and (max-width: 1300px) {
+    .service_box {
+      max-width: 100%;
+    }
+  }
+  
+  /*# sourceMappingURL=responsive.css.map */
+  
