@@ -55,7 +55,7 @@ $(document).ready(function ()
     }
 
     objectEnabledOrDisabled('#fincode', 'input', false);
-    objectEnabledOrDisabled('#mail', 'input', false);
+    // objectEnabledOrDisabled('#mail', 'input', false);
     objectEnabledOrDisabled('#phoneNumber', 'input', false);
 
     // --------------  initializeInputMask -------------->
